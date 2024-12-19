@@ -42,8 +42,7 @@ El modelo **XGBoost** optimizado, utilizando **Validación Cruzada SIN SMOTE**, 
 - **F1-Score**: 91.67%  
 - **Accuracy**: 99.97%  
 
-📊 Comparación de modelos:  
-![Comparación de Modelos](informe_final.pdf)
+📊 [Comparación de Modelos](informe_final.pdf)
 
 ---
 
