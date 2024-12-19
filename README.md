@@ -81,7 +81,7 @@ Si bien el proyecto alcanzó los objetivos propuestos, existen oportunidades par
 ## 🤝 **Colaboración**  
 Este proyecto es solo el comienzo y me encantaría seguir desarrollándolo. Si estás interesado en colaborar, proponer mejoras o explorar nuevas ideas, **¡no dudes en contactarme!**  
 
-📧 **Correo**: erikaalvares@ejemplo.com  
+📧 **Web Personal**: [Erika Alvares](https://www.erikaalvares.es/)
 🌐 **LinkedIn**: [LinkedIn de Erika Alvares](https://www.linkedin.com)  
 
 ---
